@@ -1,5 +1,5 @@
 names = Array.new
 
-names = ["klaus", "erik", "sarah", "franzi", "laurie", "thea", "julius"]
+names = ["klaus", "ERIK", "sarah", "franzi", "laurie", "thea", "julius"]
 
 puts names
